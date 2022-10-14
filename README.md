@@ -13,6 +13,8 @@ handling of NaN values.
  - Matplotlib
 
 ### Relevance:
-This project is made for anyone with interest in diving into the world of datascience and machine learning for aetificial intelligence
+This project is made for anyone with interest in diving into the world of datascience and machine learning for aetificial intelligence.
+
+Enjoy.
 
 
