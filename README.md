@@ -15,6 +15,6 @@ handling of NaN values.
 ### Relevance:
 This project is made for anyone with interest in diving into the world of datascience and machine learning for aetificial intelligence.
 
-Enjoy.
+Enjoy :)
 
 
